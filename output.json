@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "author": "Petya Petrov",
+    "content": "Hi people",
+    "created": "14/04/2020",
+    "location": {
+      "first": 55.75222,
+      "second": 37.61556
+    },
+    "typePost": "POST",
+    "source": null,
+    "sourceHTTP": null,
+    "likeByMe": false,
+    "countLiked": 0,
+    "countComment": 0,
+    "countShare": 0
+  },
+  {
+    "id": 2,
+    "author": "Vasya Pupkov",
+    "content": "Hello",
+    "created": "14/04/2020",
+    "location": null,
+    "typePost": "REPLY",
+    "source": {
+      "id": 1,
+      "author": "Petya Petrov",
+      "content": "Hi people",
+      "created": "14/04/2020",
+      "location": null,
+      "typePost": "POST",
+      "source": null,
+      "sourceHTTP": null,
+      "likeByMe": false,
+      "countLiked": 0,
+      "countComment": 0,
+      "countShare": 0
+    },
+    "sourceHTTP": null,
+    "likeByMe": false,
+    "countLiked": 0,
+    "countComment": 0,
+    "countShare": 0
+  },
+  {
+    "id": 3,
+    "author": "Masha Medvedeva",
+    "content": "some video",
+    "created": "13/04/2020",
+    "location": null,
+    "typePost": "VIDEO",
+    "source": null,
+    "sourceHTTP": "https://www.youtube.com/watch?v\u003dWhWc3b3KhnY",
+    "likeByMe": false,
+    "countLiked": 0,
+    "countComment": 0,
+    "countShare": 0
+  },
+  {
+    "id": 4,
+    "author": "Vova",
+    "content": "and byu",
+    "created": "",
+    "location": null,
+    "typePost": "REPOST",
+    "source": {
+      "id": 1,
+      "author": "Petya Petrov",
+      "content": "Hi people",
+      "created": "14/04/2020",
+      "location": null,
+      "typePost": "POST",
+      "source": null,
+      "sourceHTTP": null,
+      "likeByMe": false,
+      "countLiked": 0,
+      "countComment": 0,
+      "countShare": 0
+    },
+    "sourceHTTP": null,
+    "likeByMe": false,
+    "countLiked": 0,
+    "countComment": 0,
+    "countShare": 0
+  }
+]
