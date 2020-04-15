@@ -1,7 +1,7 @@
 package ru.polenova.ncraftmedia.dto
 
 enum class TypePost {
-    POST, REPOST, REPLY, VIDEO
+    POST, REPOST, REPLY, VIDEO, COMMERCIAL
 }
 
 class Post(
